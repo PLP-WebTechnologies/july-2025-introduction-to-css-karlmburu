@@ -1,0 +1,37 @@
+body{
+    font-family: 'Consolas', 'Monaco', 'Lucida Console','Liberation Mono','DejaVu Sans Mono', monospace;
+    background-color: #191970;
+    color: #F0F8FF;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-size: xx-large;
+    text-align: center;
+}
+h2{
+    font-size: larger;
+    text-align: justify;
+}
+.intro{
+    margin: 20px;
+    padding: 20px;
+}
+.types{
+    margin: 20px;
+    padding: 20px;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: #F0F8FF;
+    padding: 0px;
+    margin: 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0%;
+}
+address{
+    margin: 40px;
+    padding: 40px;
+}
